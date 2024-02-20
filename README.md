@@ -8,6 +8,8 @@
 
 - ### 🌱 I’m currently learning BTech degree in Computer Science and Engineering
 - ### 📫 How to reach me through Linkedin
+- ### Ask me about my passion
+- ### Reach me through github@lara-jacob
 
 
 

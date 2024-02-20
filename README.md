@@ -6,16 +6,16 @@
 
  ### 🌱 I’m currently learning B Tech degree in Computer Science and Engineering
 
- ### Skills
+ ### ✨Skills
 * Programming Languages: Python, Java, C,C++
 * Soft Skills: Teamwork, Communication, Problem-Solving, Presentation Skills
- ### Interests
+ ### 💥Interests
 * Machine Learning
 * Web Development
-## Contact
+## 📱 Contact
 * LinkedIn: linkedin.com/in/lara-jacob-075815290
 
-#####  I'm always looking for new opportunities to learn and collaborate. Feel free to reach out!
+##### 👉 I'm always looking for new opportunities to learn and collaborate. Feel free to reach out!👈
 
 
 

@@ -13,7 +13,7 @@
 * Machine Learning
 * Web Development
 ## 📱 Contact
-* LinkedIn: linkedin.com/in/lara-jacob-075815290
+* LinkedIn:  www.linkedin.com/in/lara-jacob-075815290
 
 ##### 👉 I'm always looking for new opportunities to learn and collaborate. Feel free to reach out!👈
 

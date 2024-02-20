@@ -7,7 +7,7 @@
  ### 🌱 I’m currently learning B Tech degree in Computer Science and Engineering
 
  ### ✨Skills
-* Programming Languages: Python, Java, C,C++
+* Programming Languages: C,Java,
 * Soft Skills: Teamwork, Communication, Problem-Solving, Presentation Skills
  ### 💥Interests
 * Machine Learning

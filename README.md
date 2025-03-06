@@ -1,16 +1,17 @@
 ## 👋 Hey there, I'm Lara Marium Jacob!
 
 
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 ### 💡 About Me
 - 🎓 **Computer Science Engineering** student  
 - 💻 Passionate about **Web Development, Machine learning, and Programming**  
-- 🚀 Currently building **[Zahara](https://github.com/your-repo)** - A platform to empower women with government schemes and policies  
 - 🏆 Certified in HTML & CSS (META), Python for Data Science (IIT Madras), Industrial Automation (IIT Kharagpur)  
 - 🎵 Love **music, drawing, and traveling**  
 
 ---
+
 
 ### 🚀 Tech Stack & Tools
 
@@ -21,14 +22,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🏆 Achievements & Activities
-
-- 🏅 **Hackathon Enthusiast** - Participated in **TinkerHub Hackathon**  
-- 🎤 **Speaker & Organizer** - Led events as **Volunteer Secretary at NSS**  
-- 🏆 **Industrial Projects** - Developed `Credit Card Fraud Detection` 
 
 ---
 
